@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zufbag19.github.io/zufar-portfolio/sitemap.xml
